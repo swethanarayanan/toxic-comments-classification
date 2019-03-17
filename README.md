@@ -10,3 +10,5 @@ You are provided with a large number of Wikipedia comments which have been label
 - identity_hate
 
 You must create a model which predicts a probability of each type of toxicity for each comment.
+
+Kaggle Leaderboard Score : 0.83608
